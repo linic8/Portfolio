@@ -4,9 +4,11 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## 📚 Table of Contents
 - [Data Visualizations](#data-visualizations)
-- [SQL](#sql)
-- [Python](#python)
-- [Tableau](#tableau)
+  - [Tableau] (#tableau)
+  - [R-studio] (#r-studio)
+- [Classification Projects]
+  - [Python] (#python)
+
 
 # Data Visualizations
 
