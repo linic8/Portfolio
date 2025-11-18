@@ -2,15 +2,13 @@
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
-## 📚 Table of Contents
-- [Data Visualizations](#data-visualizations)
+## ⊹ ࣪ ˖ Table of Contents
+- [Data Projects](#data-projects)
   - [Tableau] (#tableau)
   - [R-studio] (#r-studio)
-- [Classification Projects]
   - [Python] (#python)
 
-
-# Data Visualizations
+# Data Projects ⊹ ࣪ ˖⊹ ࣪ ˖
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
