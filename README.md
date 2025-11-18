@@ -6,6 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Data Projects](#data-projects)
 - [Tableau](#tableau)
 - [Python](#python)
+- [R Studio](#r-studio)
 
 # Data Projects ⊹ ࣪ ˖⊹ ࣪ ˖
 
@@ -16,7 +17,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# SQL
+# r-studio
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
