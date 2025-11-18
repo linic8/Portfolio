@@ -1,15 +1,14 @@
-# 🗺 Katie's Portfolio
+# 🗺 Nik's Portfolio
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [Data Engineering](#data-engineering)
+- [Data Visualizations](#data-visualizations)
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
-- [Katie's Guides](#katies-guides)
 
-# Data Engineering
+# Data Visualizations
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
